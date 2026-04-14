@@ -23,7 +23,7 @@ Se si hanno problemi col Tkinter, in Windows il pacchetto arriva con l'istallazi
 Lanciare il file install.bat (istalla Tesseract e FFMpeg) - RIAVVIARE IL COMPUTER O APRIRE UN'ALTRA FINESTRA CMD.
 
 # ENGLISH <a id='ENGLISH'></a>
-Generator of a multimodal content extraction and normalization pipeline (OCR + ASR + captioning + document parsing + text export for ingestion).
+It is a generator of a multimodal content extraction and normalization pipeline (OCR + ASR + captioning + document parsing + text export for ingestion).
 The program allows you to extract text from an input directory containing various file types: docx, pdf, mp4, wav, m4a, jpg, png, etc.
 All the text parts are written to an output folder in files named like the original files but with a .TXT extension.
 The program also inserts the description of the frames of a video, the description of an image, the audio transcript, etc.
