@@ -1,0 +1,14 @@
+pytesseract
+Pillow
+openai-whisper
+moviepy
+opencv-python
+numpy
+python-docx
+PyPDF2
+pymupdf
+python-pptx
+transformers
+torch
+tqdm
+xxhash
