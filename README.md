@@ -1,5 +1,9 @@
 # RAGForge
 Generatore di una pipeline multimodale di estrazione e normalizzazione contenuti (OCR + ASR + captioning + document parsing + export testuale per ingestion).
+Il programma permette di estrarre testi da una directory di input contenente vari tipi di file: docx,pdf,mp4,wav,m4a,jpg,png, ecc..
+In una cartella di output sono scritti tutti le parti testuali in file nominati come i file originali ma con estensione TXT.
+Il programma inserisce anche la descrizione dei frame di un filmato, la descrizione di un'immagine, la trascrizione audio, ecc..
+Una volta che la cartella di output si è popolata, allora si può usarla come directory di RAG, per programmi come open-webui, ecc.ecc..
 
 INSTALLAZIONE
 Si consiglia sempre di creare un ambiente Python dedicato, es. 
