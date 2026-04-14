@@ -26,6 +26,9 @@ Bisogna installare il software Tesseract (ATTENTI AD INCLUDERE LA LINGUA ITALIAN
 
 Se si hanno problemi col Tkinter, in Windows il pacchetto arriva con l'istallazione di Python (https://www.python.org/)
 
+## RUN
+python ragforge.py
+
 
 <a name='ENGLISH'></a>
 # ENGLISH 
@@ -49,5 +52,8 @@ Run the install.bat file (installs Tesseract and FFMpeg). RESTART THE COMPUTER O
 You must install the Tesseract software (BE SURE TO INCLUDE THE ITALIAN LANGUAGE). For OCR recognition, we recommend selecting Italian and English during installation.
 
 If you are having problems with Tkinter, the package comes with the Python installation package for Windows (https://www.python.org/).
+
+## RUN
+python ragforge.py
 
 
