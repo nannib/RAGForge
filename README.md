@@ -27,8 +27,8 @@ Bisogna installare il software Tesseract (ATTENTI AD INCLUDERE LA LINGUA ITALIAN
 Se si hanno problemi col Tkinter, in Windows il pacchetto arriva con l'istallazione di Python (https://www.python.org/)
 
 
-
-# ENGLISH <a id='ENGLISH'></a>
+<a name='ENGLISH'></a>
+# ENGLISH 
 It is a generator of a multimodal content extraction and normalization pipeline (OCR + ASR + captioning + document parsing + text export for ingestion).
 The program allows you to extract text from an input directory containing various file types: docx, pdf, mp4, wav, m4a, jpg, png, etc.
 All the text parts are written to an output folder in files named like the original files but with a .TXT extension.
