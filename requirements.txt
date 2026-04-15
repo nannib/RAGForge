@@ -12,3 +12,5 @@ transformers
 torch
 tqdm
 xxhash
+openpyxl
+odfpy
