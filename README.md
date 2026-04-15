@@ -1,5 +1,14 @@
 # RAGForge
 
+<table border="0"align="center">
+  <tr>
+    <td>
+      <img src="https://github.com/nannib/RAGForge/blob/main/screenshot.png" widht="450" height="483"/> 
+    </td>
+  </tr>
+</table>  
+<p align="center">by <a href="https://nannibassetti.com" target="_blank">Nanni Bassetti</a></p> 
+
 [ITALIAN](#ITALIANO)  -  [ENGLISH](#ENGLISH)  
 
 <a name="ITALIANO"></a>  
